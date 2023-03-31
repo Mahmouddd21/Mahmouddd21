@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**Mahmouddd21/Mahmouddd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Mahmouddd21&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=EyadTamer999&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
-Here are some ideas to get you started:
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmouddd21&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=5&">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadTamer999&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=5&">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mahmouddd21&theme=nightowl&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mahmouddd21&theme=nightowl&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
