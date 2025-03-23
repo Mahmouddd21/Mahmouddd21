@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Osama</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
